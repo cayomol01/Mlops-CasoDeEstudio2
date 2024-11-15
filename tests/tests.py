@@ -1,5 +1,5 @@
 import unittest
-from src.model import prueba
+from model import prueba
 
 
 class TestFunctions(unittest.TestCase):
