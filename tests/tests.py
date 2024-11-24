@@ -1,9 +1,5 @@
 import unittest
 from model import *
-import joblib
-import numpy as np
-import pandas as pd
-
 
 class TestFunctions(unittest.TestCase):
 
