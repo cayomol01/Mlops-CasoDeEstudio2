@@ -27,6 +27,7 @@ jobs:
         pip install pandas
         pip install joblib
         pip install numpy
+        pip install sklearn
 
     - name: Run tests
       run: |
